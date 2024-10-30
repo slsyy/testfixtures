@@ -1,6 +1,6 @@
 //go:build mysql
 
-package testfixtures
+package dbtests
 
 import (
 	"os"
