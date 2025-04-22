@@ -14,7 +14,7 @@ import (
 	"text/template"
 	"time"
 
-	"gopkg.in/yaml.v3"
+	"github.com/goccy/go-yaml"
 )
 
 // Loader is the responsible to loading fixtures.
